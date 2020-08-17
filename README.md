@@ -12,4 +12,5 @@
     sudo echo "/swapfile swap swap sw 0 0" >> /etc/fstab
     
 **၃) အောက်ပါ Link အတိုင်း CentOS Web Panel ကို Install လုပ်ပါ။**
+
 [ဒီမှာနှိပ်ပါ](http://centos-webpanel.com/server-update)
